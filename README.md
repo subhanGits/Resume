@@ -4,19 +4,19 @@
 
 ## Work Experience
 **Business Affairs Associate @ Tre Milano, LLC, California (_May 2024 - April 2025_)**
-- Assisted in legal strategy, responsible for a plan to handle a USD 2M default entered in the Superior Court of California, Los Angeles County.
-- Worked on a dispute related to the warehouse where the vendor was engaged in poor IT practices, causing our business inventory to disappear in transit or not reach retailers. 
-- Dilligently worked with Orange County attorneys to assist in overturning the default judgment, create and prepare caselaw on default.
-- Writing demand letters to debtors who defaulted on their obligation to pay.
-- Engaged in a patent litigation against an Israeli patent firm that accused us of infringing on hairtools patents, negotiated a payment plan and executed a favourable settlement.
-- 
+- Assisted in legal strategy, responsible for a plan to handle a USD 2M default entered in the Superior Court, Los Angeles County.
+- Worked on a dispute related to the warehouse where the vendor was engaged in poor IT practices, causing our business inventory to disappear in transit, resulting in financial injury. 
+- Dilligently worked with Orange County attorneys to assist in overturning the default judgment, created and prepared a legal brief to overturn the default.
+- Writing demand letters to debtors, negotiating a timeline to pay back.
+- Engaged in a patent litigation in the District against an Israeli patent firm that accused us of infringing on patented technology, negotiated a payment plan and executed a favourable settlement.
+
 
 **Intern @ Bullo & Sikandar Assoicates (_Oct 2023 - Jan 2024_)**
 - Responsible for drafting court papers in civil and criminal litigation, assisted partners on a harassment case against a government executive that became national news.
 - 
 
 **Managaing Partner @ Subhan & Co** (_Present_)
-- Worked on a case to recover a missing person with the help of Advocate Amjad Shabrani. We petitioned the court to declare that the Sindh Police Department has failed in its duties and has been complicit in the disappearance of the missing Child. The officers were prompt and produced the child on first hearing, and reunited the child with parents after 5 long years.
+- Worked on a case to recover a missing person with the help of Advocate Amjad Shabrani. We petitioned the court to declare that the Sindh Police Department has failed in its duties and has been complicit in the disappearance of the missing Child. The officers were prompt and produced the child on first hearing, and reunited the child with its parents after 5 long years.
 
 ## Education
 - BA-LLB, Bachelors of Law | Dadabhoy Institute of Higher Education, Karachi (_Mar 2023_)								       		
