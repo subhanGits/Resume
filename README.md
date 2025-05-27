@@ -1,16 +1,17 @@
-# Data Scientist
+# Attorney At Law
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Lawerying Skills: Legal Research & Writing, Negotiation, Contract Review & Drafting,
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- BA-LLB., Bachelors of Law | Dadabhoy Institute of Higher Education (_Nov 2018_)								       		
+- College., Pre-Engineering	| The University of Texas at Dallas (_Sep 2017_)	 			        		
+- Matriculation., Computer Science | St.Bonaventure High School (_Aug 2015_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Business Affairs Associate @ Tre Milano, LLC, California (_May 2024 - April 2025_)**
+- Assisted Executive employees in business and legal decisions, created a plan to handle a $2m Default entered in Superior Court of Los Angeles.
+- Worked on a dispute related to the warehouse where the vendor was engaged in poor IT practices, causing our business inventory to disappear in transit or not reach retailers. 
+- Dilligently worked with Orange County attorneys to assist in overturning the default judgment, create and prepare caselaw on default.
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
