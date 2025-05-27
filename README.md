@@ -1,4 +1,4 @@
-# Attorney at Law, Commonlaw Lawyer.
+# Attorney at Law
 
 #### What I Do: Legal Research & Writing, Negotiation, Contract Review & Drafting and Legal Tech. 
 
