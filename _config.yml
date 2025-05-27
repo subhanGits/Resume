@@ -1,8 +1,8 @@
 title: Abdul Subhan Soomro
-logo: /assets/img/cropped_circle_image 50.png
-#description: text below image
+logo: /assets/img/cropped_circle_image_50.png  # rename your image file if needed
+# description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
-[Linkedin](https://www.linkedin.com/in/subhan3w/)
-Tel: +92 333 1338035
 email: subhansoomro99@gmail.com
+tel: "+92 333 1338035"
+linkedin: https://www.linkedin.com/in/subhan3w/
