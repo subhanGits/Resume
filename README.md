@@ -1,6 +1,6 @@
 # Attorney at Law
 
-#### What I Do: Legal Research & Writing, Negotiation, Contract Review & Drafting and Legal Tech. 
+#### What I do: Legal Research, Writing, Negotiation, Contract Review and Legal Tech. 
 
 ## Work Experience
 **Business Affairs Associate @ Tre Milano, LLC, California (_May 2024 - April 2025_)**
