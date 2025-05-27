@@ -30,4 +30,14 @@
 
 -- Currently involved in a legal tech project where I aim to create a legislative repository to help public access laws in a clear and readable format, allowing researchers and businesses to link information sharing infrastructure, reducing research time for professionals and the public to be aware of their rights and obligations. On 26 May 2025, I wrote to the Secretary of Parliamentary Affairs to implement tech stacks for public access. This will reduce the burden of work I have to put into this project. I'm still looking for partners to help with this project.
 
+---
+layout: home
+---
 
+![Logo](/assets/img/cropped_circle_image50.png)
+
+# Abdul Subhan Soomro
+
+**Email:** [subhansoomro99@gmail.com](mailto:subhansoomro99@gmail.com)  
+**Phone:** [+92 333 1338035](tel:+923331338035)  
+**LinkedIn:** [linkedin.com/in/subhan3w](https://www.linkedin.com/in/subhan3w/)
