@@ -19,12 +19,12 @@
 - Worked on a case to recover a missing person with the help of Advocate Amjad Shabrani. We petitioned the court to declare that the Sindh Police Department has failed in its duties and has been complicit in the disappearance of the missing Child. The officers were prompt and produced the child on first hearing, and reunited the child with its parents after 5 long years.
 
 ## Education
-- BA-LLB, Bachelors of Law | Dadabhoy Institute of Higher Education, Karachi (_Mar 2023_)								       		
-- College, Pre-Engineering	| Hyderabad Degree College, (_Sep 2017_)	 			        		
-- Matriculation, Computer Science | St.Bonaventure High School (_Aug 2015_)
+- BA-LLB, Bachelor of Laws | Dadabhoy Institute of Higher Education, Karachi. (_Mar 2023_)								       		
+- College, Pre-Engineering	| Hyderabad Degree College. (_Sep 2017_)	 			        		
+- Matriculation, Computer Science | St.Bonaventure High School. (_Aug 2015_)
 
 ## Certificate 
-[**Financial Markets @ Yale Univeristy (_Mar 2021_)** ](https://www.coursera.org/account/accomplishments/certificate/U7X5QVASA2CB)
+[**Financial Markets @ Yale University (_Mar 2021_)** ](https://www.coursera.org/account/accomplishments/certificate/U7X5QVASA2CB)
 
 ## Projects
 
