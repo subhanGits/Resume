@@ -34,4 +34,5 @@
 
 **Email:** [subhansoomro99@gmail.com](mailto:subhansoomro99@gmail.com)  
 **WhatsApp:** +92 313 3360618
-[LinkedIn](https://www.linkedin.com/in/subhan3w/)
+
+## [LinkedIn](https://www.linkedin.com/in/subhan3w/)
