@@ -34,10 +34,6 @@
 layout: home
 ---
 
-![Logo](/assets/img/cropped_circle_image50.png)
-
-# Abdul Subhan Soomro
-
 **Email:** [subhansoomro99@gmail.com](mailto:subhansoomro99@gmail.com)  
 **Phone:** [+92 333 1338035](tel:+923331338035)  
-**LinkedIn:** [linkedin.com/in/subhan3w](https://www.linkedin.com/in/subhan3w/)
+[**LinkedIn:**](https://www.linkedin.com/in/subhan3w/)
